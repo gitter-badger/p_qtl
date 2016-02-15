@@ -1,0 +1,4 @@
+- In data you should store only raw data.
+- This data will be read when you do your analysis but can never be modified.
+- If you want to create modified data-sets from this data save it in the output folder.
+- Create a document where you explain how you obtained the data and also the meaning of all your variables. 

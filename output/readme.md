@@ -1,0 +1,2 @@
+- Output is for data you generate with your scripts, figures etc. The idea is that everything that you put here is disposable because it can be regenerated via scripts.
+- You could subdivide this folder in two: figures and data.
